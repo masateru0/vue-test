@@ -3,4 +3,5 @@
 <template>
   <h1>pokemon</h1>
   <p>pikachu</p>
+  <p>リザードン</p>
 </template>
